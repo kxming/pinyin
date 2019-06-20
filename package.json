@@ -1,0 +1,19 @@
+{
+  "name": "pinyin",
+  "version": "1.0.0",
+  "description": "汉字转拼音",
+  "main": "pinyin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kxming/pinyin.git"
+  },
+  "author": "kxming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kxming/pinyin/issues"
+  },
+  "homepage": "https://github.com/kxming/pinyin#readme"
+}
