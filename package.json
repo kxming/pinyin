@@ -1,5 +1,5 @@
 {
-  "name": "pinyin",
+  "name": "kpinyin",
   "version": "1.0.0",
   "description": "汉字转拼音",
   "main": "pinyin.js",
